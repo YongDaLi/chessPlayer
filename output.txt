@@ -1,0 +1,3621 @@
+
+*******root******
+
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: -1
+end: -1
+store: [<chessPlayer_tree.Tree object at 0x7ff672ba5780>, <chessPlayer_tree.Tree object at 0x7ff672ba57f0>, <chessPlayer_tree.Tree object at 0x7ff672ba5c88>, <chessPlayer_tree.Tree object at 0x7ff672ba5d68>, <chessPlayer_tree.Tree object at 0x7ff672bb6a20>, <chessPlayer_tree.Tree object at 0x7ff672bb6be0>, <chessPlayer_tree.Tree object at 0x7ff672bc0518>, <chessPlayer_tree.Tree object at 0x7ff672bc05c0>, <chessPlayer_tree.Tree object at 0x7ff672bc05f8>, <chessPlayer_tree.Tree object at 0x7ff672bc0668>, <chessPlayer_tree.Tree object at 0x7ff672bc06d8>, <chessPlayer_tree.Tree object at 0x7ff672bc0748>]
+
+*******children******
+
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 1
+end: 18
+store: [<chessPlayer_tree.Tree object at 0x7ff672bc07f0>, <chessPlayer_tree.Tree object at 0x7ff672bc0860>, <chessPlayer_tree.Tree object at 0x7ff672bc08d0>, <chessPlayer_tree.Tree object at 0x7ff672bc0940>, <chessPlayer_tree.Tree object at 0x7ff672bc09b0>, <chessPlayer_tree.Tree object at 0x7ff672bc0a20>, <chessPlayer_tree.Tree object at 0x7ff672bc0a90>, <chessPlayer_tree.Tree object at 0x7ff672bc0b38>, <chessPlayer_tree.Tree object at 0x7ff672bc0b70>, <chessPlayer_tree.Tree object at 0x7ff672bc0be0>, <chessPlayer_tree.Tree object at 0x7ff672bc0c50>, <chessPlayer_tree.Tree object at 0x7ff672bc0cc0>]
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 1
+end: 16
+store: [<chessPlayer_tree.Tree object at 0x7ff672bc0d30>, <chessPlayer_tree.Tree object at 0x7ff672bc0da0>, <chessPlayer_tree.Tree object at 0x7ff672bc0e10>, <chessPlayer_tree.Tree object at 0x7ff672bc0e80>, <chessPlayer_tree.Tree object at 0x7ff672bc0ef0>, <chessPlayer_tree.Tree object at 0x7ff672bc0f60>, <chessPlayer_tree.Tree object at 0x7ff672bc0fd0>, <chessPlayer_tree.Tree object at 0x7ff6724c10b8>, <chessPlayer_tree.Tree object at 0x7ff6724c10f0>, <chessPlayer_tree.Tree object at 0x7ff6724c1160>, <chessPlayer_tree.Tree object at 0x7ff6724c11d0>, <chessPlayer_tree.Tree object at 0x7ff6724c1240>]
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 6
+end: 21
+store: [<chessPlayer_tree.Tree object at 0x7ff6724c12b0>, <chessPlayer_tree.Tree object at 0x7ff6724c1320>, <chessPlayer_tree.Tree object at 0x7ff6724c1390>, <chessPlayer_tree.Tree object at 0x7ff6724c1400>, <chessPlayer_tree.Tree object at 0x7ff6724c1470>, <chessPlayer_tree.Tree object at 0x7ff6724c14e0>, <chessPlayer_tree.Tree object at 0x7ff6724c1550>, <chessPlayer_tree.Tree object at 0x7ff6724c15f8>, <chessPlayer_tree.Tree object at 0x7ff6724c1630>, <chessPlayer_tree.Tree object at 0x7ff6724c16a0>, <chessPlayer_tree.Tree object at 0x7ff6724c1710>, <chessPlayer_tree.Tree object at 0x7ff6724c1780>]
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 6
+end: 23
+store: [<chessPlayer_tree.Tree object at 0x7ff6724c17f0>, <chessPlayer_tree.Tree object at 0x7ff6724c1860>, <chessPlayer_tree.Tree object at 0x7ff6724c18d0>, <chessPlayer_tree.Tree object at 0x7ff6724c1940>, <chessPlayer_tree.Tree object at 0x7ff6724c19b0>, <chessPlayer_tree.Tree object at 0x7ff6724c1a20>, <chessPlayer_tree.Tree object at 0x7ff6724c1a90>, <chessPlayer_tree.Tree object at 0x7ff6724c1b38>, <chessPlayer_tree.Tree object at 0x7ff6724c1b70>, <chessPlayer_tree.Tree object at 0x7ff6724c1be0>, <chessPlayer_tree.Tree object at 0x7ff6724c1c50>, <chessPlayer_tree.Tree object at 0x7ff6724c1cc0>]
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 8
+end: 16
+store: [<chessPlayer_tree.Tree object at 0x7ff6724c1d30>, <chessPlayer_tree.Tree object at 0x7ff6724c1da0>, <chessPlayer_tree.Tree object at 0x7ff6724c1e10>, <chessPlayer_tree.Tree object at 0x7ff6724c1e80>, <chessPlayer_tree.Tree object at 0x7ff6724c1ef0>, <chessPlayer_tree.Tree object at 0x7ff6724c1f60>, <chessPlayer_tree.Tree object at 0x7ff6724c1fd0>, <chessPlayer_tree.Tree object at 0x7ff6724ca0b8>, <chessPlayer_tree.Tree object at 0x7ff6724ca0f0>, <chessPlayer_tree.Tree object at 0x7ff6724ca160>, <chessPlayer_tree.Tree object at 0x7ff6724ca1d0>, <chessPlayer_tree.Tree object at 0x7ff6724ca240>]
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 9
+end: 17
+store: [<chessPlayer_tree.Tree object at 0x7ff6724ca2b0>, <chessPlayer_tree.Tree object at 0x7ff6724ca320>, <chessPlayer_tree.Tree object at 0x7ff6724ca390>, <chessPlayer_tree.Tree object at 0x7ff6724ca400>, <chessPlayer_tree.Tree object at 0x7ff6724ca470>, <chessPlayer_tree.Tree object at 0x7ff6724ca4e0>, <chessPlayer_tree.Tree object at 0x7ff6724ca550>, <chessPlayer_tree.Tree object at 0x7ff6724ca5f8>, <chessPlayer_tree.Tree object at 0x7ff6724ca630>, <chessPlayer_tree.Tree object at 0x7ff6724ca6a0>, <chessPlayer_tree.Tree object at 0x7ff6724ca710>, <chessPlayer_tree.Tree object at 0x7ff6724ca780>]
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 10
+end: 18
+store: [<chessPlayer_tree.Tree object at 0x7ff6724ca7f0>, <chessPlayer_tree.Tree object at 0x7ff6724ca860>, <chessPlayer_tree.Tree object at 0x7ff6724ca8d0>, <chessPlayer_tree.Tree object at 0x7ff6724ca940>, <chessPlayer_tree.Tree object at 0x7ff6724ca9b0>, <chessPlayer_tree.Tree object at 0x7ff6724caa20>, <chessPlayer_tree.Tree object at 0x7ff6724caa90>, <chessPlayer_tree.Tree object at 0x7ff6724cab38>, <chessPlayer_tree.Tree object at 0x7ff6724cab70>, <chessPlayer_tree.Tree object at 0x7ff6724cabe0>, <chessPlayer_tree.Tree object at 0x7ff6724cac50>, <chessPlayer_tree.Tree object at 0x7ff6724cacc0>]
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 11
+end: 19
+store: [<chessPlayer_tree.Tree object at 0x7ff6724cad30>, <chessPlayer_tree.Tree object at 0x7ff6724cada0>, <chessPlayer_tree.Tree object at 0x7ff6724cae10>, <chessPlayer_tree.Tree object at 0x7ff6724cae80>, <chessPlayer_tree.Tree object at 0x7ff6724caef0>, <chessPlayer_tree.Tree object at 0x7ff6724caf60>, <chessPlayer_tree.Tree object at 0x7ff6724cafd0>, <chessPlayer_tree.Tree object at 0x7ff6724d30b8>, <chessPlayer_tree.Tree object at 0x7ff6724d30f0>, <chessPlayer_tree.Tree object at 0x7ff6724d3160>, <chessPlayer_tree.Tree object at 0x7ff6724d31d0>, <chessPlayer_tree.Tree object at 0x7ff6724d3240>]
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 12
+end: 20
+store: [<chessPlayer_tree.Tree object at 0x7ff6724d32b0>, <chessPlayer_tree.Tree object at 0x7ff6724d3320>, <chessPlayer_tree.Tree object at 0x7ff6724d3390>, <chessPlayer_tree.Tree object at 0x7ff6724d3400>, <chessPlayer_tree.Tree object at 0x7ff6724d3470>, <chessPlayer_tree.Tree object at 0x7ff6724d34e0>, <chessPlayer_tree.Tree object at 0x7ff6724d3550>, <chessPlayer_tree.Tree object at 0x7ff6724d35f8>, <chessPlayer_tree.Tree object at 0x7ff6724d3630>, <chessPlayer_tree.Tree object at 0x7ff6724d36a0>, <chessPlayer_tree.Tree object at 0x7ff6724d3710>, <chessPlayer_tree.Tree object at 0x7ff6724d3780>]
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 13
+end: 21
+store: [<chessPlayer_tree.Tree object at 0x7ff6724d37f0>, <chessPlayer_tree.Tree object at 0x7ff6724d3860>, <chessPlayer_tree.Tree object at 0x7ff6724d38d0>, <chessPlayer_tree.Tree object at 0x7ff6724d3940>, <chessPlayer_tree.Tree object at 0x7ff6724d39b0>, <chessPlayer_tree.Tree object at 0x7ff6724d3a20>, <chessPlayer_tree.Tree object at 0x7ff6724d3a90>, <chessPlayer_tree.Tree object at 0x7ff6724d3b38>, <chessPlayer_tree.Tree object at 0x7ff6724d3b70>, <chessPlayer_tree.Tree object at 0x7ff6724d3be0>, <chessPlayer_tree.Tree object at 0x7ff6724d3c50>, <chessPlayer_tree.Tree object at 0x7ff6724d3cc0>]
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 14
+end: 22
+store: [<chessPlayer_tree.Tree object at 0x7ff6724d3d30>, <chessPlayer_tree.Tree object at 0x7ff6724d3da0>, <chessPlayer_tree.Tree object at 0x7ff6724d3e10>, <chessPlayer_tree.Tree object at 0x7ff6724d3e80>, <chessPlayer_tree.Tree object at 0x7ff6724d3ef0>, <chessPlayer_tree.Tree object at 0x7ff6724d3f60>, <chessPlayer_tree.Tree object at 0x7ff6724d3fd0>, <chessPlayer_tree.Tree object at 0x7ff6724de0b8>, <chessPlayer_tree.Tree object at 0x7ff6724de0f0>, <chessPlayer_tree.Tree object at 0x7ff6724de160>, <chessPlayer_tree.Tree object at 0x7ff6724de1d0>, <chessPlayer_tree.Tree object at 0x7ff6724de240>]
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 20
+start: 15
+end: 23
+store: [<chessPlayer_tree.Tree object at 0x7ff6724de2b0>, <chessPlayer_tree.Tree object at 0x7ff6724de320>, <chessPlayer_tree.Tree object at 0x7ff6724de390>, <chessPlayer_tree.Tree object at 0x7ff6724de400>, <chessPlayer_tree.Tree object at 0x7ff6724de470>, <chessPlayer_tree.Tree object at 0x7ff6724de4e0>, <chessPlayer_tree.Tree object at 0x7ff6724de550>, <chessPlayer_tree.Tree object at 0x7ff6724de5f8>, <chessPlayer_tree.Tree object at 0x7ff6724de630>, <chessPlayer_tree.Tree object at 0x7ff6724de6a0>, <chessPlayer_tree.Tree object at 0x7ff6724de710>, <chessPlayer_tree.Tree object at 0x7ff6724de780>]
+
+*******sub-children******
+
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WN |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR |    | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WN |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB |    | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WN | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* |    | WP | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* | WP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP |    | WP | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    | WP |    |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP |    | WP | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    | WP |    |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP |    | WP | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    | WP |    |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP |    | WP | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    | WP |    |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP |    | WP | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    | WP |    |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP |    | WP | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    | WP |    | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BP |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* |    | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 48
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    | BP |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP |    | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 49
+end: 41
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BP |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP |    | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 50
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    | BP |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP |    | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 51
+end: 43
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    | BP |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP |    | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 52
+end: 44
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BP |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP |    | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 53
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    | BP |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP |    | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 54
+end: 46
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BP | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP |    | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 55
+end: 47
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    | BN |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 42
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* | BN |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR |    | BB | BK | BQ | BB | BN | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 57
+end: 40
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    | BN |    |    | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 45
+store: []
+board:
+1* | WR | WN | WB | WK | WQ | WB | WN | WR | 
+ * -----------------------------------------
+2* | WP | WP | WP | WP | WP | WP | WP |    | 
+ * -----------------------------------------
+3* |    |    |    |    |    |    |    | WP | 
+ * -----------------------------------------
+4* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+5* |    |    |    |    |    |    |    |    | 
+ * -----------------------------------------
+6* |    |    |    |    |    |    |    | BN | 
+ * -----------------------------------------
+7* | BP | BP | BP | BP | BP | BP | BP | BP | 
+ * -----------------------------------------
+8* | BR | BN | BB | BK | BQ | BB |    | BR | 
+ * -----------------------------------------
+   * H  * G  * F  * E  * D  * C  * B  * A  *
+val: 0
+player: 10
+start: 62
+end: 47
+store: []
+max score: 0
